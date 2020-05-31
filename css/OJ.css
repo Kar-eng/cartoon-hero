@@ -1,0 +1,61 @@
+body{
+	margin: 0;
+	font-family: 'Lobster', cursive;
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: thistle;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+h1, h2{
+	font-family: 'Lobster', cursive;
+	font-family: 'Playfair Display', serif;
+}
+header h1{
+	color: black;
+	font-size: 50px;
+}
+
+header img{
+	max-width: 500px;
+	max-height: 500px;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+	text-align: center;
+	background-color: lavenderblush;
+}
+
+main img{
+	max-width: 500px;
+	max-height: 500px;
+}
+
+
+h2{
+	font-size: 35px;
+	color: black;
+}
+
+ul img{
+	width: 100%;
+}
+
+footer{
+	background-color: thistle;
+	text-align: center;
+	color: black;
+	padding: 50px;
+}
+
+
+
+
